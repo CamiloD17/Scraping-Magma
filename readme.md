@@ -1,1 +1,1 @@
-This scraping was carried out in order to obtain the data of the publications of the old Magma Engineering site in the publications section to later renew them in the new application that is currently in the development process.
+This scraping was carried out in order to obtain the data of the publications about Magma Engineering site in the publications section to later renew them in the new application that is currently in the development process.
